@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@polkadot-cloud/assets": "^0.1.22",
+    "@polkadot-cloud/core": "^1.0.26",
+    "@polkadot-cloud/react": "^0.1.95",
+    "@polkadot-cloud/utils": "^0.0.22",
+    "@substrate/connect": "^0.7.34",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
